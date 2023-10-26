@@ -14,7 +14,7 @@ server.listen()
 print("The server has been successfully started !!!")
 
 # 4. Step - 4. Korak - 4. Lépés :
-# Acceptance of the connection by the client - Prihvatanje konekcije od strane klijenta - A klijensel való kapcsolat fogadása
+# Acceptance of the connection by the client - Prihvatanje konekcije od strane klijenta - A kliensel való kapcsolat fogadása
 channel, address = server.accept()
 print(f"The connection from the following address is accepted: {address}")
 
