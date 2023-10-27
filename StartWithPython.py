@@ -1,4 +1,4 @@
-# Types - Tipovi - Tipusok
+# Types - Tipovi - Típusok
 # Numbers - Brojevi - Számok
 print("Types in python :")
 print("Numbers :")
@@ -603,3 +603,53 @@ k = f"Your name is {name} and you are {age}"
 print(k)
 print()
 print()
+
+
+# Keywords - Ključne reči - Kulcsszavak
+
+# None - Nijedan - Egyik sem
+# True - Tačno - Igaz
+# False - Netačno - Hamis
+# and - Ligičko i - Logikai ÉS művelet
+# or - Ligičko ili - Logikai VAGY művelet
+# not - Negacija - Logikai NEM művelet
+# is - Jeste - Van
+# is not - Nije - Nincs
+# in - U - Benne van
+# not in - Nije u - Nincs benne
+# if - If grananje - If elágazások
+# else - Sledi posle if - Az if után következik
+# elif - Skraćenica od else if - Az else if rövidítése
+# for - Petlja - Ciklus
+# while - Petlja - Ciklus
+# def - Označavenje funkcije - Függvény definícióját jelenti
+# return - Povratna vrednost - A függvény visszatérési értékét adja vissza
+# class - Označava klasu - Osztály definícióját jelenti
+# import - Za upotrebu modula/biblioteka - Modulok vagy fájlok importálására szolgál
+# from - Sledi posle import da označi šta iz tog modula hoćemo - Az import-nál jelzi, hogy csak bizonyos elemeket importálunk a modulból
+# as - Kod importa, da promeni naziv - Az import-nál használható, hogy átnevezzük az importált elemeket
+# try - Za obradu izuzetaka - Hiba lekezelő blokk kezdeményezése
+# except - Osim - Kivéve
+# raise - Da se označi mogući izuztak - Kivétel kiemelése
+# finally - Sledi posle try-except i uvek se izvršava - A try-except blokkok után következik, és mindig végrehajtódik
+
+
+# Most used modules - Najčešće korišćeni moduli/biblioteke - Leghasználtabb modulok
+
+# math - Matematičke operacije - Matematikai műveletek
+# os - Za rad sa operativnim sisteamom - Operációs rendszer-szintű műveletek
+# sys - Za informacije o interpretaru i sistemu - Interpreterrel és a rendszerrel kapcsolatos információkat tartalmazza
+# random - Random brojevi - Véletlenszámok generálásához
+# datetime - Datumi i vreme - Dátum- és időkezeléshez
+# requests - Za obradu HTTP zahteva - HTTP kérések küldésére és fogadására használható
+# json - Rad sa JSON objektima - JSON (JavaScript Object Notation) adatok olvasására és írására
+# csv - Rad sa CSV fajlovima - CSV (Comma-Separated Values) fájlok olvasására és írására
+# sqlite3 - Rad sa bazama podataka - Adatbáziskezelésre használható, különösen SQLite adatbázisokhoz.
+# numpy - Matematički i naunči računi - Matematikai és tudományos számításokhoz
+# pandas - Rad sa tabelama podataka -  Adattáblák létrehozása, manipulálása és elemzése
+# matplotlib - Crtanje grafikona - Adatvizualizációhoz és grafikonok készítéséhez
+# seaborn - Isto za crtanje grafikona - Adatvizualizációhoz és grafikonok készítéséhez
+# flask, Django - Za rad sa web aplikacija - Webalkalmazások fejlesztésére szolgálnak
+# tensorflow, pytorch - Mašinsko učenje i neuronske mreže - Gépi tanulás és neurális hálózatok fejlesztéséhez
+
+print("Good luck working with python")
