@@ -10,12 +10,17 @@
     * colors.csv - test data
     * colorsAfterCalculate.csv - data after calculations
     * read-write-csv-files.py - functions for working with CSV files and their testing
-4. Working with txt files :
-    * read-write-txt-files.py - functions for working with txt files and their testing
-5. examples :
+4. Working with XML files :
+    * numbers.xml - xml file for list of numbers
+    * students.xml - xml file for the list of students
+    * read-write-xml-files.py - functions for working with XML files and their testing
+5. Working with txt files :
+    * read-write-txt-files.py - functions for working with TXT files and their testing
+6. examples :
     * myFirstCalculator.py - the first calculator I implemented in python
     * easyTasksForBeginners.py - a few simple examples and their solutions
     * tasksWithDataCollectionsForBeginners.py - some tasks with lists and dictionaries and their solutions
+    * tasksWithFunctionsForBeginners.py - a few tasks with functions and their solutions
 
 ## Tips on how to test the contents of the repository :
 * **Recommended softwares :**
