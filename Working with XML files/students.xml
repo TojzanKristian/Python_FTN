@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<students><student><firstName>John</firstName><secondName>Doe</secondName><indexNumber>PR100/2020</indexNumber><average>8.5</average></student><student><firstName>Jane</firstName><secondName>Smith</secondName><indexNumber>RA2/2021</indexNumber><average>9.0</average></student><student><firstName>Bob</firstName><secondName>Johnson</secondName><indexNumber>EE10/2019</indexNumber><average>7.5</average></student></students>
