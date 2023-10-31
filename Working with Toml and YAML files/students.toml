@@ -1,0 +1,18 @@
+[[students]]
+first_name = "John"
+last_name = "Doe"
+student_id = "PR100/2020"
+gpa = 8.5
+
+[[students]]
+first_name = "Jane"
+last_name = "Smith"
+student_id = "RA2/2021"
+gpa = 9.0
+
+[[students]]
+first_name = "Bob"
+last_name = "Johnson"
+student_id = "EE10/2019"
+gpa = 7.5
+
