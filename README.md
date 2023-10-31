@@ -10,13 +10,24 @@
     * colors.csv - test data
     * colorsAfterCalculate.csv - data after calculations
     * read-write-csv-files.py - functions for working with CSV files and their testing
-4. Working with XML files :
+4. Working with JSON files :
+    * read-write-json-files.py - functions for working with JSON files and their testing
+    * sample.json - JSON file for list of numbers
+    * students.json - JSON file for the list of students
+5. Working with Toml and YAML files :
+    * numbers.toml - Toml file for list of numbers
+    * numbers.yaml - YAML file for list of numbers
+    * read-write-toml-files.py - functions for working with Toml files and their testing
+    * read-write-yaml-files.py - functions for working with YAML files and their testing
+    * students.toml - Toml file for the list of students
+    * students.yaml - YAML file for the list of students
+6. Working with XML files :
     * numbers.xml - xml file for list of numbers
     * students.xml - xml file for the list of students
     * read-write-xml-files.py - functions for working with XML files and their testing
-5. Working with txt files :
+7. Working with txt files :
     * read-write-txt-files.py - functions for working with TXT files and their testing
-6. examples :
+8. examples :
     * myFirstCalculator.py - the first calculator I implemented in python
     * easyTasksForBeginners.py - a few simple examples and their solutions
     * tasksWithDataCollectionsForBeginners.py - some tasks with lists and dictionaries and their solutions
@@ -32,3 +43,14 @@
     * In _Visual Studio Code_, you need to click on **Run** option if there is only 1 file involved.
     * In _Visual Studio Code_, if there are several files, you need to start it in a separate terminal.
     * In _PyCharm_, you need to click on the **Run** option.
+
+### To test functions with Toml and YAML files :**
+_For Toml files :_
+```
+pip install toml
+```
+
+_For YAML files :_
+```
+pip install PyYAML
+```
