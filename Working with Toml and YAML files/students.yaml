@@ -1,0 +1,12 @@
+- first_name: John
+  gpa: 8.5
+  last_name: Doe
+  student_id: PR100/2020
+- first_name: Jane
+  gpa: 9.0
+  last_name: Smith
+  student_id: RA2/2021
+- first_name: Bob
+  gpa: 7.5
+  last_name: Johnson
+  student_id: EE10/2019
